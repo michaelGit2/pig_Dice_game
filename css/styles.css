@@ -1,7 +1,7 @@
 /***** GENERAL
 ***/
 
-/* * {
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -163,4 +163,4 @@ button:focus {
 }
 
 .winner { background-color: #f7f7f7; }
-.winner .player-name { font-weight: 300; color: #EB4D4D; } */
+.winner .player-name { font-weight: 300; color: #EB4D4D; }
